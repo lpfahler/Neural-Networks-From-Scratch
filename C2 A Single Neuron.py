@@ -15,14 +15,15 @@ output = (inputs[0]*weights[0] +
           inputs[2]*weights[2] + 
           bias)
 
-print(f'output = {output})
+print(f'output = {output}')
 
 # four inputs to the neuron
-weights = [0.2, 0.8, -0.5, 2.5]
+inputs = inputs = [1, 2, 3, 2.5]
+weights = [0.2, 0.8, -0.5, 1]
 output = (inputs[0]*weights[0] + 
           inputs[1]*weights[1] +
           inputs[2]*weights[2] + 
-          inputs[3]*weights[3]
+          inputs[3]*weights[3] +
           bias)
 
-print
+print(f'output = {output}')
