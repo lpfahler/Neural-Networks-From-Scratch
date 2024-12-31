@@ -1,4 +1,4 @@
-# Chapter 2 A Single Neuron
+# Chapter 2 A Single Neuron pp 26 - 29
 # Lori Pfahler
 # December 2024
 
