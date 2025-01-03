@@ -1,4 +1,4 @@
-# Chapter 2 Single Neuron with NumPy
+# Chapter 2 Single Neuron with NumPy p 40
 # Lori Pfahler
 # January 2025
 
