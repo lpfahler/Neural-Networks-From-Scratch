@@ -1,5 +1,4 @@
-# Chapter 4 Test New ReLU class and Dense Layer class
-# with training data from nnfs (spiral data)
+# Chapter 4 Softmax Activation Function Simple Code
 # pages 98 - 107
 # Lori Pfahler
 # January 2024
